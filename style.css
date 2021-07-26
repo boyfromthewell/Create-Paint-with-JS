@@ -31,12 +31,13 @@ body{
     text-transform: uppercase;
     font-weight: 800;
     font-size: 12px;
+    margin-right: 10px;
 }
 .controls_btns button:active{
     transform: scale(1.2);
 }
 .canvas{
-    width: 700px;
+    width: 1400px;
     height: 700px;
     background-color: white;
     border-radius: 15px;
